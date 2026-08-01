@@ -1,0 +1,4 @@
+Hi everyone
+We are leanring file I/O
+Using Java
+I like programming in Java
