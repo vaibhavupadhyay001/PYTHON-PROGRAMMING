@@ -5,12 +5,6 @@ print(new_price)
 
 #to solve this problem fucntions comes in FIELD
 
-def sum(a,b):
-    print(a +b )
-
-sum(100 , 234)
-
-
 def cal_GST(price): #parameters
     new_price=price + (price*0.18)
     print(new_price)
@@ -33,5 +27,22 @@ import random
 print(random.random()) # 0 to 1
 
 print(random.randint(1,10)) # a ,b
+
+
+# its a block of statment that performs specific task
+
+a=5 
+b=10
+sum=a+b
+print(sum) # redunatant code
+
+#for this we can create a sum fucntion
+
+def sum(a,b): #parameter
+    print(a +b ) #function def
+
+sum(100 , 234) #function call and arguments
+sum(5,10) #fucntion reduce the reducency 
+
 
     
