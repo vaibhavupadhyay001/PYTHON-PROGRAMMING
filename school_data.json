@@ -1,0 +1,36 @@
+{
+    "students": [
+        {
+            "name": "Vaibhav",
+            "age": 20,
+            "email": "vaibhavupadhyay@gmail.com",
+            "roll_no": "0169",
+            "grades": {}
+        },
+        {
+            "name": "Abhay",
+            "age": 21,
+            "email": "abhay@gmail.com",
+            "roll_no": "0176",
+            "grades": {
+                "MATHS": 78.0
+            }
+        },
+        {
+            "name": "Abhay",
+            "age": 23,
+            "email": "A@gmail.com",
+            "roll_no": "0169",
+            "grades": {}
+        }
+    ],
+    "Teachers": [
+        {
+            "name": "Subodh",
+            "age": 53,
+            "email": "S@.com",
+            "subject": "MATHS",
+            "emp_id": "00321"
+        }
+    ]
+}
